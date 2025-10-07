@@ -97,10 +97,10 @@
     // Lista de banners
     const banners = [
       {
-        nome: "CryptoPay",
+        nome: "NEXO",
         usuarios: 18450,
         img: "https://imgur.com/a/HF0hx76",
-        link: "https://cryptopay.com/?ref=SEULINK](https://nexo.sjv.io/c/6595791/2218808/12544"
+        link: "https://nexo.sjv.io/c/6595791/2218808/12544"
       },
       {
         nome: "Wise",
