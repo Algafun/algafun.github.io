@@ -99,7 +99,7 @@
       {
         nome: "NEXO",
         usuarios: 18450,
-        img: "https://imgur.com/a/HF0hx76",
+        img: "https://imgur.com/a/HF0hx76.jpg",
         link: "https://nexo.sjv.io/c/6595791/2218808/12544"
       },
       {
