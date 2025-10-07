@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -99,8 +99,8 @@
       {
         nome: "CryptoPay",
         usuarios: 18450,
-        img: "https://i.imgur.com/xP7bM6X.jpg",
-        link: "https://cryptopay.com/?ref=SEULINK"
+        img: "https://imgur.com/a/HF0hx76",
+        link: "https://cryptopay.com/?ref=SEULINK](https://nexo.sjv.io/c/6595791/2218808/12544"
       },
       {
         nome: "Wise",
